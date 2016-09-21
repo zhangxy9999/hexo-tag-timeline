@@ -4,7 +4,7 @@
 
 */
 
-hexo.extenf.tag.register('timeline', function (args) {
+hexo.extend.tag.register('timeline', function (args) {
     var googleSheetCode = args[0];
 
     var timeline = '<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=' + googleSheetCode +
