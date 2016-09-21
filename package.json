@@ -1,0 +1,25 @@
+{
+  "name": "hexo-tag-timeline",
+  "version": "1.0.0",
+  "description": "Embed Timeline.js block with this Hexo tag plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxy9999/hexo-tag-timeline.git"
+  },
+  "keywords": [
+    "tag",
+    "plugin",
+    "Hexo",
+    "timeline"
+  ],
+  "author": "Rain Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxy9999/hexo-tag-timeline/issues"
+  },
+  "homepage": "https://github.com/zhangxy9999/hexo-tag-timeline#readme"
+}
