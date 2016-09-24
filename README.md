@@ -19,7 +19,7 @@ Embed timeline block in your Hexo blogs! This plugin is powered by [Timeline.js]
     Example: `{% timeline 1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI 650 en Georgia-Helvetica %}`
 5. Parameters:
     * height: number in pixel
-    * language
+    * language: [ISO 639-1 Code List](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
     * font: 
         * Default
         * Abril -DroidSans
