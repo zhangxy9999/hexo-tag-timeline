@@ -18,21 +18,20 @@ Embed timeline block in your Hexo blogs! This plugin is powered by [Timeline.js]
 <br/><pre><code>{% timeline [Google Sheet Code] [height] [language] [font] %}</code></pre>
     Example: `{% timeline 1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI 650 en Georgia-Helvetica %}`
 5. Parameters:
-⋅⋅* height: number in pixel
-⋅⋅* language: 
-⋅⋅⋅⋅* Default
-⋅⋅⋅⋅* Abril -DroidSans
-⋅⋅⋅⋅* Amatic-Andika
-⋅⋅⋅⋅* Bevan-PontanoSans
-⋅⋅⋅⋅* Bitter-Raleway
-⋅⋅⋅⋅* Danci ng- Ledger
-⋅⋅⋅⋅* FjaIIa-Average
-⋅⋅⋅⋅* Georgia-Helvetica
-⋅⋅⋅⋅* Lustria-Lato
-⋅⋅⋅⋅* OpenSans
-⋅⋅⋅⋅* PI ayfair-FaunaOne
-⋅⋅⋅⋅* Rufina -Sintony
-⋅⋅⋅⋅* UnicaOne-VoI Ikorn
-⋅⋅* Unordered sub-list.
-⋅⋅* Unordered sub-list.
+    * height: number in pixel
+    * language
+    * font: 
+        * Default
+        * Abril -DroidSans
+        * Amatic-Andika
+        * Bevan-PontanoSans
+        * Bitter-Raleway
+        * Danci ng- Ledger
+        * FjaIIa-Average
+        * Georgia-Helvetica
+        * Lustria-Lato
+        * OpenSans
+        * PI ayfair-FaunaOne
+        * Rufina -Sintony
+        * UnicaOne-VoI Ikorn
 6. More instructions on how to use Google Spreadsheet template, please refers to [https://timeline.knightlab.com/](https://timeline.knightlab.com/)
